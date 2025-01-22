@@ -1,0 +1,10 @@
+{
+  "color_scheme": "retro",
+  "sound_enabled": false,
+  "controls": {
+    "up": "w",
+    "down": "s",
+    "left": "a",
+    "right": "d"
+  }
+}
